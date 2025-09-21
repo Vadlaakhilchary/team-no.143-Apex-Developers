@@ -1,1 +1,2 @@
-# team-no.143-Apex-Developers
+CognitiveX GENAI Hackathon
+I participated in the CognitiveX GENAI Hackathon, a dynamic innovation challenge focused on harnessing the power of Generative AI to solve real-world problems. The hackathon brought together creative minds, developers, and innovators to design impactful AI-driven solutions that pushed the boundaries of technology. It served as a platform to collaborate, learn, and showcase cutting-edge ideas in areas like intelligent automation, data-driven decision-making, and human-centric AI applications.
